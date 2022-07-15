@@ -1,0 +1,23 @@
+{
+  "name": "enkaiji.com",
+  "version": "1.0.0",
+  "description": "Enkai's Personal Website",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNKKKK/enkaiji.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNKKKK/enkaiji.com/issues"
+  },
+  "homepage": "https://github.com/JNKKKK/enkaiji.com#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  }
+}
